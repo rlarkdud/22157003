@@ -1,0 +1,23 @@
+<style type="text/css">
+       #header
+         {
+            text-align: center;
+            color: white;
+            background-color: black;
+         }
+         img
+         {
+            width: 30%;
+            float: left;
+            margin-right: 30px;
+            margin-bottom: 30px;
+         }
+         #nav
+         {
+            color: red
+         }
+         #in
+         {
+            color: black
+         }
+</style>
